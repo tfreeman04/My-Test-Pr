@@ -1,1 +1,3 @@
 # My-Test-Pr
+
+This is a test repo for the practicals
